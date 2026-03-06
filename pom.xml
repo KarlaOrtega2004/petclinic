@@ -94,7 +94,7 @@
       <scope>runtime</scope>
     </dependency>
     <dependency>
-      <groupId>com.goole.cloud.sql</groupId>
+      <groupId>com.google.cloud.sql</groupId>
       <artifactId>postgres-socket-factory</artifactId>
       <version>1.15.2</version>
     </dependency>
